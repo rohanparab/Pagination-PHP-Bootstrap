@@ -7,7 +7,12 @@ The following code will help you to insert a pagination in your page.
 
 ## Basic usage 
 
-Credentials.php : Holds database credentials
+Include pagination.php to your project file.
+```php
+<?php
+    include_once 'pagination.php';
+?>
+```
 
 To change number of records per page
 * Open Pagination.php
@@ -16,13 +21,14 @@ To change number of records per page
 To Display the pagination add this code where you need to display pagination
 ```php
 <?php
+        include_once 'pagination.php';
         if(isset($_GET['currentpage'])){
             $currentpage = $_GET['currentpage'];
         }else{
             $currentpage = 1;
         }
 
-    generatePagination($currentpage, "index.php?currentpage=")
+        generatePagination($currentpage, "index.php?currentpage=")
     ?>
 ```
 

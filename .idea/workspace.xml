@@ -2,17 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb14613b-3f7f-461f-84fa-fe061047e746" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/pagination.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.MD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/credentials.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demoimg/demo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pagination.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../EmiCalculator/js/emi.js" beforeDir="false" afterPath="$PROJECT_DIR$/../EmiCalculator/js/emi.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../FullScreenNav/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FullScreenNav/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../FullScreenNav/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/../FullScreenNav/css/index.css" afterDir="false" />
@@ -33,6 +22,8 @@
       <change beforePath="$PROJECT_DIR$/../collegesystem/credentials.php" beforeDir="false" afterPath="$PROJECT_DIR$/../collegesystem/credentials.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../collegesystem/functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/../collegesystem/functions.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/credentials.php" beforeDir="false" afterPath="$PROJECT_DIR$/credentials.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../rationsystem" beforeDir="false" afterPath="$PROJECT_DIR$/../rationsystem" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -56,11 +47,11 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.MD">
+        <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="754">
-                <caret line="29" column="63" selection-start-line="29" selection-start-column="63" selection-end-line="29" selection-end-column="63" />
+              <first_editor relative-caret-position="286">
+                <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
               </first_editor>
               <second_editor />
             </state>
@@ -79,8 +70,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/credentials.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="156">
-              <caret line="6" column="49" selection-start-line="6" selection-start-column="49" selection-end-line="6" selection-end-column="49" />
+            <state relative-caret-position="130">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -107,6 +98,8 @@
         <option value="$PROJECT_DIR$/pagination.php" />
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/README.MD" />
+        <option value="$PROJECT_DIR$/credentials.php" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -164,18 +157,18 @@
       <option name="presentableId" value="Default" />
       <updated>1549563289910</updated>
       <workItem from="1549563291347" duration="1626000" />
-      <workItem from="1549572881859" duration="4922000" />
+      <workItem from="1549572881859" duration="5369000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6548000" />
+    <option name="totallyTimeSpent" value="6995000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25321338" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25321338" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -188,7 +181,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32974428" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32974428" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -219,16 +212,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/credentials.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="6" column="49" selection-start-line="6" selection-start-column="49" selection-end-line="6" selection-end-column="49" />
+        <state relative-caret-position="130">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.MD">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="754">
-            <caret line="29" column="63" selection-start-line="29" selection-start-column="63" selection-end-line="29" selection-end-column="63" />
+          <first_editor relative-caret-position="286">
+            <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
           </first_editor>
           <second_editor />
         </state>
